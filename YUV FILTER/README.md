@@ -7,9 +7,9 @@
 
 There are two overlay versions for the complete design:
 
-    -"yuv_filter_full.bit" and "yuv_filter_full.hwh" work without hierarchy.
+"yuv_filter_full.bit" and "yuv_filter_full.hwh" work without hierarchy.
 
-    -"yuv_filter.bit" and "yuv_filter.hwh" work with hierarchy.
+-"yuv_filter.bit" and "yuv_filter.hwh" work with hierarchy.
 
 
 Working with Vivado 2019.2
