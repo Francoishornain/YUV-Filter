@@ -3,13 +3,15 @@
 ## How to make a python yuv filter and create custom bloc design on Vivado and Vivado HLS
 ====================================
 
-This repository contains a Tutorial to learn how to make an AXI Stream DMA with a custom AXI Stream IP.
+This repository contains the creation of custom ips of the different functions of the yuv filter:
 
-"YUV Filter - Software" contains the soft version of the filter.
+"RGB2YUV" is about the rgb to yuv conversion.
 
-"YUV_scale", "rgb2yuv" and "yuv2rgb" contain the hard version of each block.
+"SCALE_YUV" is about the scale transformation.
 
-"YUV Filter - Hardware" contains every hard version of every block. It is the final version of the filter. 
+"YUV2RGB" is about the yuv to rgb conversion.
+
+"YUV Filter" contains the filter that does the full image processing with two different ways (SOFT part and HARD part).
 
 
 Working with Vivado 2019.2
