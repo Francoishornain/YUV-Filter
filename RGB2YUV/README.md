@@ -4,5 +4,5 @@
 "rgb2yuv_new.bit" and "rgb2yuv_new.hwh" allow to create the overlay in the notebook.
 
 
-Work with Vivado 2019.2
+Working with Vivado 2019.2
 
