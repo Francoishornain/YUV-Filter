@@ -13,5 +13,7 @@ This repository contains the creation of custom ips of the different functions o
 
 "YUV Filter" contains the filter that does the full image processing with two different ways (SOFT part and HARD part).
 
+Images used for this system are all in the directory "images".
+
 
 Working with Vivado 2019.2
